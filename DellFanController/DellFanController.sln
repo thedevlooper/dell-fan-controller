@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellFanController", "DellFanController.csproj", "{A1410B00-2527-415E-B2F3-9A6D52955DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1410B00-2527-415E-B2F3-9A6D52955DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1410B00-2527-415E-B2F3-9A6D52955DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1410B00-2527-415E-B2F3-9A6D52955DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1410B00-2527-415E-B2F3-9A6D52955DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F286071-AC07-4E35-AB1C-3A0F05B8D4ED}
+	EndGlobalSection
+EndGlobal
